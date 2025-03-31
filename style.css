@@ -1,0 +1,48 @@
+
+body {
+    margin: 20px;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+    overflow: hidden;
+}
+
+
+.block {
+    width: 150px;
+    height: 80px;
+    background-color: #2D3257;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+    margin: 20px;
+
+}
+.big {
+    width: 200px;
+    height: 200px;
+    background-color: #f8b400;
+    margin: 20px 20px auto 35%;
+}
+
+.small {
+    width: 150px;
+    height: 80px;
+    background-color: #32cd32;
+    margin: 20px 35%;
+}
+
+.clearfix {
+    clear: both;
+}
